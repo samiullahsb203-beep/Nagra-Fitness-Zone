@@ -1,19 +1,14 @@
+
 name: gym_management_app
-description: A simple gym management app using Flutter and Firebase
+description: A gym management Flutter application.
 publish_to: 'none'
 
-version: 1.0.0+1
-
 environment:
-  sdk: ">=2.17.0 <3.0.0"
+  sdk: ">=3.0.0 <4.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  firebase_core: ^2.4.1
-  firebase_auth: ^4.2.5
-  cloud_firestore: ^4.2.0
-  firebase_storage: ^11.0.7
 
 dev_dependencies:
   flutter_test:
